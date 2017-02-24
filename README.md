@@ -1,0 +1,2 @@
+# seqdatamine
+sequential data mining
